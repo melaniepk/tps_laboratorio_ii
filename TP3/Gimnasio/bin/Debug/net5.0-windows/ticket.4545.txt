@@ -1,3 +1,0 @@
-Nombre Cliente: ssad
-Apellido Cliente : asdad
-Plan Adquirido: Basic

@@ -1,6 +1,0 @@
-[{"Nombre":"Boxeo","CantAlumnos":15,"Dias":"Martes y Miercoles","Horario":"20:00"},
-{"Nombre":"Yoga","CantAlumnos":20,"Dias":"Jueves y Viernes","Horario":"9:30"},
-{"Nombre":"Zumba","CantAlumnos":20,"Dias":"Lunes y Viernes","Horario":"17:30"},
-{"Nombre":"Spinning","CantAlumnos":30,"Dias":"Miercoles y Viernes","Horario":"18:30"},
-{"Nombre":"Sala de Maquinas","CantAlumnos":30,"Dias":"Lunes, Martes, Miercoles, Jueves","Horario":"07:30"},
-{"Nombre":"Baile","CantAlumnos":20,"Dias":"Lunes y Jueves","Horario":"16:30"}]
