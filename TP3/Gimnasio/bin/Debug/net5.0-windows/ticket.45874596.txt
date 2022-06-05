@@ -1,0 +1,3 @@
+Nombre Cliente: juan
+Apellido Cliente : pedor
+Plan Adquirido: Basic

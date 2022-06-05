@@ -1,0 +1,3 @@
+Nombre Cliente: lalala
+Apellido Cliente : tetete
+Plan Adquirido: Basic
