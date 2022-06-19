@@ -9,7 +9,7 @@ namespace TestUnitarios
         [TestMethod]
         public void Test_ComprobarExistencia_When_dni_Exists_should_return_true()
         {
-            int dni = 42253268;
+            int dni = 44555666;
 
             Base.CargarClientes();
             bool resultado = Cliente.ComprobarExistencia(dni);
